@@ -1,0 +1,80 @@
+.body {
+	background-color: #090408;
+	font-family: "Lexend";
+	font-weight: 300;
+}
+
+h3 {
+	font-weight: 300 !important;
+	color: #FFFBF5 !important;
+}
+
+.container1 {
+	margin-top: 7%;
+	padding-bottom: 10px !important;
+	padding: 20px;
+	padding-left: 20px !important;
+	padding-right: 20px !important;
+	max-width: 500px !important;
+	max-width: 30%;
+	background-color: #312B37 !important;
+	text-align: center;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+}
+
+.container2 {
+	padding-top: 0px !important;
+	padding: 50px;
+	padding-left: 50px !important;
+	padding-right: 50px !important;
+	max-width: 500px !important;
+	max-width: 30%;
+	background-color: #FFFBF5 !important;
+	text-align: center;
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+}
+
+.little {
+	color: #8E8889;
+}
+
+.btn {
+	background-color: #312B37 !important;
+	border-radius: 50px !important;
+	color: #f2f2ed !important;
+	font-weight: 200 !important;
+	letter-spacing: 1px;
+}
+
+.inputchoice {
+	border-radius: 50px !important;
+	border: none !important;
+	font-weight: 200;
+	text-align: center;
+}
+
+img {
+	width: 100%;
+	border-radius: 20px;
+}
+
+.footer {
+	bottom: 0;
+	vertical-align: middle;
+	position: fixed;
+	width: 100%;
+	padding: 10px;
+	text-align: center;
+	background-color: #312B37;
+	height: 45px;
+	font-family: Lexend;
+	color: #f2f2ed;
+}
+
+a {
+	font-family: Lexend;
+	color: #f2f2ed !important;
+	text-decoration: none !important;
+}
